@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40139142
-name: Final Environmental and Social Systems Assessment (ESSA) - Mozambique Program for Strengthening
-  Governance and Citizen Service Delivery - P514896 (D40139142)
-description: 'Final Environmental and Social Systems Assessment (ESSA) - Mozambique Program for Strengthening
-  Governance and Citizen Service Delivery - P514896 — a published World Bank project document for the
-  financed operation ''MZ-Mozambique Program for Strengthening Governance and Citizen Service Delivery
-  -- P514896'' (country: Mozambique; lending instrument: Program-for-Results Financing; major theme: n/a;
+name: Final Environmental and Social Systems Assessment (ESSA) - Mozambique Program
+  for Strengthening Governance and Citizen Service Delivery - P514896 (D40139142)
+description: 'Final Environmental and Social Systems Assessment (ESSA) - Mozambique
+  Program for Strengthening Governance and Citizen Service Delivery - P514896 — a
+  published World Bank project document for the financed operation ''MZ-Mozambique
+  Program for Strengthening Governance and Citizen Service Delivery -- P514896'' (country:
+  Mozambique; lending instrument: Program-for-Results Financing; major theme: n/a;
   document date 2026-11-13).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099111326143511516/pdf/P514896-890beee8-9451-4143-b28e-3c0d0c0c280c.pdf
-      (World Bank Documents & Records API; document D40139142; operation MZ-Mozambique Program for Strengthening
-      Governance and Citizen Service Delivery -- P514896)
-  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. Investment framing:
-    the document is the published record of a financed World Bank operation (lending instrument recorded
-    in the source).'
+      (World Bank Documents & Records API; document D40139142; operation MZ-Mozambique
+      Program for Strengthening Governance and Citizen Service Delivery -- P514896)
+  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. Investment framing: the document is the published
+    record of a financed World Bank operation (lending instrument recorded in the
+    source).'
 tags:
 - world-bank
 - mozambique
 slug: d40139142-final-environmental-and-social-systems
+assigned_id: dea:investment-initiative-d40139142-final-environmental-and-social-systems-3448uw
+admitted: '2026-11-15'
