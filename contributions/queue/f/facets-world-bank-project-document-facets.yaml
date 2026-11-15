@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc facets
 name: World Bank project document facets (facets)
-description: 'World Bank project document facets — a published World Bank project document for the financed
-  operation ''World Bank project document facets'' (country: n/a; lending instrument: n/a; major theme:
-  n/a; document date n/a).'
+description: 'World Bank project document facets — a published World Bank project
+  document for the financed operation ''World Bank project document facets'' (country:
+  n/a; lending instrument: n/a; major theme: n/a; document date n/a).'
 evidence:
   sources:
   - kind: published-document
-    reference: https://documents.worldbank.org/ (World Bank Documents & Records API; document facets;
-      operation n/a)
-  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. Investment framing:
-    the document is the published record of a financed World Bank operation (lending instrument recorded
-    in the source).'
+    reference: https://documents.worldbank.org/ (World Bank Documents & Records API;
+      document facets; operation n/a)
+  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. Investment framing: the document is the published
+    record of a financed World Bank operation (lending instrument recorded in the
+    source).'
 tags:
 - world-bank
 slug: facets-world-bank-project-document-facets
+assigned_id: dea:investment-initiative-facets-world-bank-project-document-facets-w7nd22
+admitted: '2026-11-15'

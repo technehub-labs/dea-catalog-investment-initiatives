@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: worldbank-project-documents.json
 source_ref: World Bank doc D40137133
-name: China - EAST ASIA AND PACIFIC- P156397- China HCFC Phaseout Project Stage II - Procurement Plan
-  (D40137133)
-description: 'China - EAST ASIA AND PACIFIC- P156397- China HCFC Phaseout Project Stage II - Procurement
-  Plan — a published World Bank project document for the financed operation ''CN-China HCFC Phaseout Project
-  Stage II -- P156397'' (country: China; lending instrument: Investment Project Financing; major theme:
-  n/a; document date 2026-11-02).'
+name: China - EAST ASIA AND PACIFIC- P156397- China HCFC Phaseout Project Stage II
+  - Procurement Plan (D40137133)
+description: 'China - EAST ASIA AND PACIFIC- P156397- China HCFC Phaseout Project
+  Stage II - Procurement Plan — a published World Bank project document for the financed
+  operation ''CN-China HCFC Phaseout Project Stage II -- P156397'' (country: China;
+  lending instrument: Investment Project Financing; major theme: n/a; document date
+  2026-11-02).'
 evidence:
   sources:
   - kind: published-document
     reference: https://documents.worldbank.org/curated/en/099110226155512371/pdf/P156397-1c4dfb40-b855-4977-9578-9f7bfd0e7f33.pdf
-      (World Bank Documents & Records API; document D40137133; operation CN-China HCFC Phaseout Project
-      Stage II -- P156397)
-  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org wds, Project Documents
-    collection). The document is the published record of a financed World Bank operation. Investment framing:
-    the document is the published record of a financed World Bank operation (lending instrument recorded
-    in the source).'
+      (World Bank Documents & Records API; document D40137133; operation CN-China
+      HCFC Phaseout Project Stage II -- P156397)
+  rationale: 'Cited from the World Bank Documents & Records API (search.worldbank.org
+    wds, Project Documents collection). The document is the published record of a
+    financed World Bank operation. Investment framing: the document is the published
+    record of a financed World Bank operation (lending instrument recorded in the
+    source).'
 tags:
 - world-bank
 - china
 slug: d40137133-china-east-asia-and-pacific-p156397-ch
+assigned_id: dea:investment-initiative-d40137133-china-east-asia-and-pacific-p156397-ch-ju5fam
+admitted: '2026-11-15'
