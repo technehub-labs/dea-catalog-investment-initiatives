@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-### CR-II-CAT-01: InvestmentInitiative Candidate Admission Batch 02
+### CR-II-CAT-04: InvestmentInitiative Candidate Admission Batch 02
 
 Admitted 999 new `InvestmentInitiative` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +999, canonical unchanged; queue entries flipped to `admitted`.
 
